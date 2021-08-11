@@ -1,23 +1,26 @@
 {
   "files": {
-    "main.css": "/tickingclock/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/tickingclock/static/js/main.bfb55902.chunk.js",
-    "main.js.map": "/tickingclock/static/js/main.bfb55902.chunk.js.map",
-    "runtime-main.js": "/tickingclock/static/js/runtime-main.ed7f7544.js",
-    "runtime-main.js.map": "/tickingclock/static/js/runtime-main.ed7f7544.js.map",
-    "static/js/2.4a4b57da.chunk.js": "/tickingclock/static/js/2.4a4b57da.chunk.js",
-    "static/js/2.4a4b57da.chunk.js.map": "/tickingclock/static/js/2.4a4b57da.chunk.js.map",
-    "static/js/3.4bb1d8fe.chunk.js": "/tickingclock/static/js/3.4bb1d8fe.chunk.js",
-    "static/js/3.4bb1d8fe.chunk.js.map": "/tickingclock/static/js/3.4bb1d8fe.chunk.js.map",
+    "main.css": "/tickingclock/static/css/main.542f4bbb.chunk.css",
+    "main.js": "/tickingclock/static/js/main.f7ba72bb.chunk.js",
+    "main.js.map": "/tickingclock/static/js/main.f7ba72bb.chunk.js.map",
+    "runtime-main.js": "/tickingclock/static/js/runtime-main.28bf57d5.js",
+    "runtime-main.js.map": "/tickingclock/static/js/runtime-main.28bf57d5.js.map",
+    "static/css/2.c490997a.chunk.css": "/tickingclock/static/css/2.c490997a.chunk.css",
+    "static/js/2.ebb73abe.chunk.js": "/tickingclock/static/js/2.ebb73abe.chunk.js",
+    "static/js/2.ebb73abe.chunk.js.map": "/tickingclock/static/js/2.ebb73abe.chunk.js.map",
+    "static/js/3.62718e1a.chunk.js": "/tickingclock/static/js/3.62718e1a.chunk.js",
+    "static/js/3.62718e1a.chunk.js.map": "/tickingclock/static/js/3.62718e1a.chunk.js.map",
     "index.html": "/tickingclock/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/tickingclock/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.4a4b57da.chunk.js.LICENSE.txt": "/tickingclock/static/js/2.4a4b57da.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/tickingclock/static/media/logo.6ce24c58.svg"
+    "static/css/2.c490997a.chunk.css.map": "/tickingclock/static/css/2.c490997a.chunk.css.map",
+    "static/css/main.542f4bbb.chunk.css.map": "/tickingclock/static/css/main.542f4bbb.chunk.css.map",
+    "static/js/2.ebb73abe.chunk.js.LICENSE.txt": "/tickingclock/static/js/2.ebb73abe.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.min.css": "/tickingclock/static/media/fontawesome-webfont.f691f37e.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.ed7f7544.js",
-    "static/js/2.4a4b57da.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.bfb55902.chunk.js"
+    "static/js/runtime-main.28bf57d5.js",
+    "static/css/2.c490997a.chunk.css",
+    "static/js/2.ebb73abe.chunk.js",
+    "static/css/main.542f4bbb.chunk.css",
+    "static/js/main.f7ba72bb.chunk.js"
   ]
 }
